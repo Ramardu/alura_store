@@ -7,6 +7,9 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/status-finished-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/release%20date-april%202025-yellow">
+<a href="https://colab.research.google.com/github/Ramardu/alura_store/blob/main/AluraStoreLatam.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab">
+</a>
 </p>
 
 <p align="justify">Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena <strong>Alura Store</strong> debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos. 🏪💼</p>
